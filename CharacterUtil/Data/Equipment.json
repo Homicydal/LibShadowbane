@@ -1,0 +1,179 @@
+[
+    {
+        "Name": "Ring",
+        "EquipmentType": "Ring"
+    }, {
+        "Name": "Red Scutum Shield",
+        "EquipmentType": "Shield",
+        "PrimarySkillName": "Block",
+        "Weight": 35,
+        "StatComponents": [
+            {
+                "Stat": "ShieldDefense",
+                "Value": 50
+            }
+        ]
+    }, {
+        "Name": "Hunting Leather Vest",
+        "EquipmentType": "Chest",
+        "PrimarySkillName": "Wear Armor, Light",
+        "Weight": 4,
+        "StatComponents": [
+            {
+                "Stat": "Dexterity",
+                "Value": 1
+            }, {
+                "Stat": "ArmorDefense",
+                "Value": 41
+            } /*Focus stuff tbd*/
+        ]
+    }, {
+        "Name": "Hunting Leather Hood",
+        "EquipmentType": "Helm",
+        "PrimarySkillName": "Wear Armor, Light",
+        "Weight": 1,
+        "StatComponents": [
+            {
+                "Stat": "Dexterity",
+                "Value": 1
+            }, {
+                "Stat": "ArmorDefense",
+                "Value": 20
+            } /*Focus stuff tbd*/
+        ]
+    }, {
+        "Name": "Hunting Leather Sleeves",
+        "EquipmentType": "Sleeves",
+        "PrimarySkillName": "Wear Armor, Light",
+        "Weight": 1,
+        "StatComponents": [
+            {
+                "Stat": "Dexterity",
+                "Value": 1
+            }, {
+                "Stat": "ArmorDefense",
+                "Value": 15
+            } /*Focus stuff tbd*/
+        ]
+    }, {
+        "Name": "Hunting Leather Leggings",
+        "EquipmentType": "Leggings",
+        "PrimarySkillName": "Wear Armor, Light",
+        "Weight": 1,
+        "StatComponents": [
+            {
+                "Stat": "Dexterity",
+                "Value": 1
+            }, {
+                "Stat": "ArmorDefense",
+                "Value": 24
+            } /*Focus stuff tbd*/
+        ]
+    }, {
+        "Name": "Hunting Leather Boots",
+        "EquipmentType": "Boots",
+        "PrimarySkillName": "Wear Armor, Light",
+        "Weight": 1,
+        "StatComponents": [
+            {
+                "Stat": "Dexterity",
+                "Value": 1
+            }, {
+                "Stat": "ArmorDefense",
+                "Value": 12
+            } /*Focus stuff tbd*/
+        ]
+    }, {
+        "Name": "Hunting Leather Gloves",
+        "EquipmentType": "Gloves",
+        "PrimarySkillName": "Wear Armor, Light",
+        "Weight": 1,
+        "StatComponents": [
+            {
+                "Stat": "Dexterity",
+                "Value": 1
+            }, {
+                "Stat": "ArmorDefense",
+                "Value": 12
+            } /*Focus stuff tbd*/
+        ]
+    }, {
+        "Name": "Nature's Wrath",
+        "EquipmentType": "OneHandedWeapon",
+        "PrimarySkillName": "Sword",
+        "SkillRequirement": 1.0,
+        "SecondarySkillName": "Nature Lore"
+    }, {
+        "Name": "Cutlass",
+        "EquipmentType": "OneHandedWeapon",
+        "PrimarySkillName": "Sword",
+        "SkillRequirement": 0.75,
+        "SecondarySkillName": "Sword Mastery"
+    }, {
+        "Name": "Ring Mail Helm",
+        "EquipmentType": "Helm",
+        "PrimarySkillName": "Wear Armor, Medium",
+        "Weight": 8,
+        "StatComponents": [
+            {
+                "Stat": "ArmorDefense",
+                "Value": 5
+            }
+        ]
+    }, {
+        "Name": "Ring Mail Hauberk",
+        "EquipmentType": "Chest",
+        "PrimarySkillName": "Wear Armor, Medium",
+        "Weight": 18,
+        "StatComponents": [
+            {
+                "Stat": "ArmorDefense",
+                "Value": 10
+            }
+        ]
+    }, {
+        "Name": "Ring Mail Sleeves",
+        "EquipmentType": "Sleeves",
+        "PrimarySkillName": "Wear Armor, Medium",
+        "Weight": 6,
+        "StatComponents": [
+            {
+                "Stat": "ArmorDefense",
+                "Value": 4
+            }
+        ]
+    }, {
+        "Name": "Ring Mail Gauntlets",
+        "EquipmentType": "Gloves",
+        "PrimarySkillName": "Wear Armor, Medium",
+        "Weight": 2,
+        "StatComponents": [
+            {
+                "Stat": "ArmorDefense",
+                "Value": 2
+            }
+        ]
+    }, {
+        "Name": "Ring Mail Leggings",
+        "EquipmentType": "Leggings",
+        "PrimarySkillName": "Wear Armor, Medium",
+        "Weight": 10,
+        "StatComponents": [
+            {
+                "Stat": "ArmorDefense",
+                "Value": 6
+            }
+        ]
+    }, {
+        "Name": "Ring Mail Boots",
+        "EquipmentType": "Boots",
+        "PrimarySkillName": "Wear Armor, Medium",
+        "Weight": 4,
+        "StatComponents": [
+            {
+                "Stat": "ArmorDefense",
+                "Value": 2
+            }
+        ]
+    }
+]

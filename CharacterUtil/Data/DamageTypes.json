@@ -1,0 +1,17 @@
+[
+    {"Name": "Crushing"},
+    {"Name": "Piercing"},
+    {"Name": "Slashing"},
+    {"Name": "Bleeding"},
+    {"Name": "Cold"},
+    {"Name": "Fire"},
+    {"Name": "Disease"},
+    {"Name": "Drain"},
+    {"Name": "Healing"},
+    {"Name": "Holy"},
+    {"Name": "Lightning"},
+    {"Name": "Magic"},
+    {"Name": "Mental"},
+    {"Name": "Poison"},
+    {"Name": "Unholy"}
+]

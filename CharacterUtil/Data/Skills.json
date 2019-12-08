@@ -1,0 +1,178 @@
+[
+    {
+        "Name": "Abjuration",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Archery",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Athletics",
+        "SecondaryStat": "Constitution"
+    }, {
+        "Name": "Axe",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Axe Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Bargaining",
+        "SecondaryStat": "Intelligence"
+    }, {
+        "Name": "Beastcraft",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Benediction",
+        "SecondaryStat": "Spirit" /* spirit primary? */
+    }, {
+        "Name": "Blade Mastery",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Blade Weaving",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Block",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Bloodcraft"/*,
+        "SecondaryStat": null*/
+    }, {
+        "Name": "Bow",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Corruption",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Crossbow",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Dagger",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Dagger Mastery",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Exorcism",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Flame Calling",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Great Axe Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Great Hammer Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Great Sword Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Hammer",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Hammer Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Liturgy",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Nature Lore",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Necromancy",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Orthanatos"/*,
+        "SecondaryStat": null*/
+    }, {
+        "Name": "Pole Arm",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Pole Arm Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Restoration",
+        "PrimaryStat": "Spirit",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Running",
+        "PrimaryStat": null
+    }, {
+        "Name": "Shadowmastery",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Sorcery",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Spear",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Spear Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Staff",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Staff Mastery",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Stormcalling",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Sun Dancing"/*,
+        "SecondaryStat": null*/
+    }, {
+        "Name": "Sword",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Sword Mastery",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Thaumaturgy",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Theurgy",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Throwing",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Toughness",
+        "SecondaryStat": "Constitution"
+    }, {
+        "Name": "Unarmed Combat",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Unarmed Combat Mastery",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Warding",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Warlockry",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Way of the Bear"/*,
+        "SecondaryStat": null*/
+    }, {
+        "Name": "Way of the Gaana",
+        "SecondaryStat": "Spirit"
+    }, {
+        "Name": "Way of the Rat"/*,
+        "SecondaryStat": null*/
+    }, {
+        "Name": "Way of the Wolf"/*,
+        "SecondaryStat": null*/
+    }, {
+        "Name": "Wear Armor, Heavy",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Wear Armor, Light",
+        "SecondaryStat": "Dexterity"
+    }, {
+        "Name": "Wear Armor, Medium",
+        "SecondaryStat": "Strength"
+    }, {
+        "Name": "Wizardry",
+        "SecondaryStat": "Spirit"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "Normal"
+    }, {
+        "Name": "FighterDefense",
+        "DefenseBase": 1.09,
+        "DefenseRange": 0.16
+    }, {
+        "Name": "FighterOffense",
+        "DefenseBase": 0.82,
+        "DefenseRange": -0.32
+    }, {
+        "Name": "FighterPrecise"
+    }, {
+        "Name": "HealerDefense",
+        "DefenseBase": 1.09,
+        "DefenseRange": 0.16
+    } , {
+        "Name": "HealerOffense",
+        "DefenseBase": 0.91,
+        "DefenseRange": -0.16
+    }
+]

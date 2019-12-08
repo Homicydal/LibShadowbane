@@ -1,0 +1,81 @@
+[
+    {
+        "Name": "Blessing of Health",
+        "StackCategory": "AttrCONBuff",
+        "Tags": ["Buff", "ConstitutionBuff", "Effect"],
+        "Components":[
+            {
+                "Stat": "Constitution",
+                "BaseValue": 20,
+                "Rank40Bonus": 40
+            }
+        ]
+    }, {
+        "Name": "Blessing of Strength",
+        "StackCategory": "AttrSTRBuff",
+        "Tags": ["Buff", "Effect"],
+        "Components":[
+            {
+                "Stat": "Strength",
+                "BaseValue": 20,
+                "Rank40Bonus": 40
+            }
+        ]
+    }, {
+        "Name": "Blessing of Dexterity",
+        "StackCategory": "AttrDEXBuff",
+        "Tags": ["Buff", "Effect"],
+        "Components":[
+            {
+                "Stat": "Dexterity",
+                "BaseValue": 20,
+                "Rank40Bonus": 40
+            }
+        ]
+    },{
+        "Name": "Charm of Illumination (Intelligence)",
+        "StackCategory": "AttrINTBuff",
+        "Tags": ["Buff", "Effect"],
+        "Components":[
+            {
+                "Stat": "Intelligence",
+                "BaseValue": 20,
+                "Rank40Bonus": 40
+            }
+        ]
+    }, {
+        "Name": "Charm of Illumination (Spirit)",
+        "StackCategory": "AttrSPIBuff",
+        "Tags": ["Buff", "Effect"],
+        "Components":[
+            {
+                "Stat": "Spirit",
+                "BaseValue": 20,
+                "Rank40Bonus": 40
+            }
+        ]
+    } , {
+        "Name": "Blessed Protection",
+        "StackCategory": "DefenseBuff",
+        "Tags": ["Buff", "Effect"],
+        "Components":[
+            {
+                "Stat": "Defense",
+                "BaseValue": 20,
+                "Rank40Bonus": 80
+            }
+        ]
+    }, {
+        "Name": "Prayer of Protection",
+        "StackCategory": "DefenseBuffGroup",
+        "Tags": ["Buff", "Effect"],
+        "Components":[
+            {
+                "Stat": "Defense",
+                "BaseValue": 10,
+                "Rank40Bonus": 40
+            }
+        ]
+            
+    }
+]

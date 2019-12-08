@@ -1,0 +1,48 @@
+[
+    {
+        "EquipmentType": "OneHandedWeapon",
+        "ValidIn": ["RightHand", "LeftHand"]
+    }, {
+        "EquipmentType": "TwoHandedWeapon",
+        "Occupies": ["RightHand", "LeftHand"]
+    }, {
+        "EquipmentType": "MainHandWeapon",
+        "ValidIn": ["RightHand"]
+    }, {
+        "EquipmentType": "Shield",
+        "ValidIn": ["LeftHand"]
+    }, {
+        "EquipmentType": "Hood",
+        "ValidIn": ["Helm"]
+    }, {
+        "EquipmentType": "Robe",
+        "Occupies": ["Chest", "Leggings", "Sleeves"]
+    }, {
+        "EquipmentType": "SleevelessRobe",
+        "Occupies": ["Chest", "Leggings"]
+    }, {
+        "EquipmentType": "Amulet",
+        "ValidIn": ["Amulet"]
+    }, {
+        "EquipmentType": "Ring",
+        "ValidIn": ["RightRing", "LeftRing"]
+    } , {
+        "EquipmentType": "Helm",
+        "ValidIn": ["Helm"]
+    }, {
+        "EquipmentType": "Chest",
+        "ValidIn": ["Chest"]
+    }, {
+        "EquipmentType": "Sleeves",
+        "ValidIn": ["Sleeves"]
+    }, {
+        "EquipmentType": "Gloves",
+        "ValidIn": ["Gloves"]
+    }, {
+        "EquipmentType": "Leggings",
+        "ValidIn": ["Leggings"]
+    }, {
+        "EquipmentType": "Boots",
+        "ValidIn": ["Boots"]
+    }
+]

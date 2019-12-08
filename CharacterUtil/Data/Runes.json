@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "Warrior",
+        "Grants": 
+        {
+            "Powers": [],
+            "Stances":
+            [
+                {
+                    "Name": "FighterDefense",
+                    "Rank": 40
+                }, {
+                    "Name": "FighterOffense",
+                    "Rank": 40
+                }, {
+                    "Name": "FighterPrecise",
+                    "Rank": 40
+                }
+            ],
+            "Skills": []
+        }
+    }
+]

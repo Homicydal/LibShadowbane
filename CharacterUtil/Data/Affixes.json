@@ -1,0 +1,39 @@
+[
+    {
+        "Name": "Ornamented",
+        "AffixType": "Prefix",
+        "StatComponents": [
+            {
+                "Stat": "FlatDefense",
+                "Value": 30
+            }
+        ]
+    }, {
+        "Name": "of Thurin",
+        "AffixType": "Suffix",
+        "StatComponents": [
+            {
+                "Stat": "Health",
+                "Value": 75
+            }
+        ]
+    }, {
+        "Name": "of Blocking",
+        "AffixType": "Suffix",
+        "StatComponents": [
+            {
+                "Stat": "ShieldDefense",
+                "Value": 21
+            }
+        ]
+    }, {
+        "Name": "Aegis",
+        "AffixType": "Prefix",
+        "StatComponents": [
+            {
+                "Stat": "ArmorDefense",
+                "Value": 8
+            }
+        ]
+    }
+]
